@@ -95,34 +95,65 @@ Choose specific technologies within your domain (e.g., .NET, Flutter, Node.js). 
 
 
 الجزء الاول:
+
 المرحلة الاولى : اختيار لغة c++ or Java Or c#
+
 وتطبيق DSA Syntax  مثل data types controllers conditions 
+
 المرحلة الثانية :OOP Concepts and Uses البرمجة الشيئية مبادئها واستخداماتها مع OODesign واهمها SOLID principles 
- المرحلة الثالثة : Memory management
+
+المرحلة الثالثة : Memory management
+--------------------
 الجزء الثاني :
 
 DSA بالتركيز على الاتي :
+
 linear Data structures (Arrays, dynamicarray, linked list, queue, stack)
+
 tree 
+
 BST , Dictionary (hash ,graph)
- Search
+
+Search
+
 linear search , binary search
+
 Sorting
+
 Bubble sort ,Quick sort, merge sort
+
 BFS DFS
+
 recursion
- Greedy algorithms , dynamic programming 
+
+Greedy algorithms , dynamic programming 
+
 problem solving (LeetCode or HackerRank) eazy 50
+
 med 40
+
 simple project 
+
 management school
+
+
+----------------------------
  الجزء الثالث البناء العلمي 
 MIT,stanford caltech
+
 example
+
 principles of operating system
+
 principles Database
+
 logical design
+
+
+------------------------
 الجزء الرابع 
+
 اساسيات التخصص web mobile game
+
 بعدها شاهد الفيديو 
  career options
